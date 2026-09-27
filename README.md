@@ -1,2 +1,3 @@
 # Name-IN-GRAPH
 This repo is designed to show my name in contribution graph.
+First working on created S it take from 27/09/26 to 17/10/26.
